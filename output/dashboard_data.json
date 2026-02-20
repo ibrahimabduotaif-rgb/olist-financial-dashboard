@@ -1,0 +1,84 @@
+{
+  "kpis": {
+    "total_revenue": 110.0,
+    "total_orders": 1,
+    "avg_order_value": 110.0,
+    "total_customers": 1,
+    "total_sellers": 1,
+    "avg_review_score": 5.0,
+    "five_star_pct": 100.0,
+    "on_time_pct": 100.0,
+    "avg_delivery_days": 3.0,
+    "credit_card_share": 100.0
+  },
+  "monthly_revenue": [
+    {
+      "year_month": "2017-01",
+      "revenue": 100.0,
+      "freight": 10.0,
+      "orders": 1,
+      "total": 110.0
+    }
+  ],
+  "top_categories": [
+    {
+      "product_category_name_english": "bed bath table",
+      "revenue": 100.0,
+      "orders": 1,
+      "avg_price": 100.0
+    }
+  ],
+  "payment_types": [
+    {
+      "payment_type": "credit_card",
+      "total_value": 110.0,
+      "order_count": 1
+    }
+  ],
+  "installments": [
+    {
+      "payment_installments": 3,
+      "count": 1,
+      "total": 110.0
+    }
+  ],
+  "states": [
+    {
+      "customer_state": "SP",
+      "revenue": 100.0,
+      "orders": 1,
+      "customers": 1
+    }
+  ],
+  "quarterly": [
+    {
+      "quarter": "2017Q1",
+      "revenue": 100.0,
+      "orders": 1,
+      "growth_pct": NaN
+    }
+  ],
+  "review_distribution": {
+    "5": 1
+  },
+  "category_monthly": [
+    {
+      "year_month": "2017-01",
+      "product_category_name_english": "bed bath table",
+      "revenue": 100.0
+    }
+  ],
+  "delivery_monthly": [
+    {
+      "year_month": "2017-01",
+      "avg_days": 3.0,
+      "on_time_rate": 100.0
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-02-20T02:49:51.634507",
+    "source": "Olist Brazilian E\u2011Commerce Dataset (Kaggle)",
+    "date_range": "2017-01 to 2017-01",
+    "total_records_analyzed": 1
+  }
+}
