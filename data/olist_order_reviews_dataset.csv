@@ -1,0 +1,2 @@
+review_id,order_id,review_score,review_comment_title,review_comment_message,review_creation_date,review_answer_timestamp
+r1,00000000a7cbb97d5c2eee47b812f266,5,Excellent,Great product!,2017-01-15 12:00:00,2017-01-16 13:00:00

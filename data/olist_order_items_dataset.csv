@@ -1,0 +1,2 @@
+order_id,order_item_id,product_id,seller_id,shipping_limit_date,price,freight_value
+00000000a7cbb97d5c2eee47b812f266,1,ABCD1234,SELLER123,2017-01-12 00:00:00,100.0,10.0
