@@ -120,10 +120,13 @@ Colour coding is consistent throughout: gold (₿) = revenue/primary, blue = sec
 
 ---
 
-## Live Dashboard Link
 
-🔗 **[Live Interactive Dashboard](https://olist-financial-dashboard-uyde5xvldxcm9xhd6cpv3n.streamlit.app)**
-> The dashboard is deployed as an interactive web application. All charts support hover tooltips, and the revenue trend chart includes tab controls to toggle between combined view, revenue‑only, and orders‑only perspectives.
+
+🔗 🔗 **[Live Interactive Dashboard](https://ibrahimabduotaif-rgb.github.io/olist-financial-dashboard/)**
+
+
+> The dashboard is deployed as an interactive web application. All charts support hover tooltips, and the revenue trend chart includes tab controls to toggle between combined view, revenue-only, and orders-only perspectives.
+
 
 ---
 
